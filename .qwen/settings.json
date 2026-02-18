@@ -1,0 +1,19 @@
+{
+  "security": {
+    "auth": {
+      "selectedType": "qwen-oauth"
+    }
+  },
+  "ui": {
+    "accessibility": {
+      "disableLoadingPhrases": true
+    },
+    "hideTips": true,
+    "hideBanner": true,
+    "feedbackLastShownTimestamp": 1770837844871
+  },
+  "$version": 2,
+  "model": {
+    "name": "coder-model"
+  }
+}
